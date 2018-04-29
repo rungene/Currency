@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency</string>
+
+    <string name="convert">Convert</string>
+    <string name="usdtxt">USD</string>
+    <string name="eurtxt">EUR</string>
+    <string name="inrtxt">INR</string>
+
+    <string name="zero">00</string>
+
+    <string-array name="currency">
+        <item>USD</item>
+        <item>Euro</item>
+        <item>INR</item>
+
+    </string-array>
+</resources>
